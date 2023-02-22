@@ -32,6 +32,7 @@ test
 test2
 test3
 test4
+test5
 
 ### 처음부터 vue cli를 만들때는 다음 순서로 만든다
 
