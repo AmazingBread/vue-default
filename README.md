@@ -28,6 +28,10 @@ yarn lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+
+test
+test2 
+
 ### 처음부터 vue cli를 만들때는 다음 순서로 만든다
 
 0. node 설치 (16.19 로 하니 에러가 안남)
