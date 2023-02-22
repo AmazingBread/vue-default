@@ -28,9 +28,10 @@ yarn lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
 test
-test2 
+test2
+test3
+test4
 
 ### 처음부터 vue cli를 만들때는 다음 순서로 만든다
 
