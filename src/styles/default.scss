@@ -127,9 +127,8 @@ table {
 
 html {
   min-width: 1080px;
-  font-family: "gwedu";
   font-size: 40px;
-  color: #3f3d56;
+  color: #000;
   height: 1920px;
   overflow: hidden;
 }
@@ -137,14 +136,4 @@ html {
 /* 공통 set*/
 .blue {
   color: #1d2088;
-}
-/* font css  */
-
-// @charset "utf-8";
-
-@font-face {
-  font-family: "gwedu";
-  src: url("../assets/font/gangwonedu.ttf") format("truetype"),
-    url("../assets/font/gangwonedu.woff") format("woff2"),
-    url("../assets/font/gangwonedu.woff2") format("woff");
 }
